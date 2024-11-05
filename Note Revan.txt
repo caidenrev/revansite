@@ -1,0 +1,14 @@
+======== TASK JOB =================
+
+- ubah uk pict sama resize uk gambar masing"
+- rename sesuai sama tag line dan tag code
+- style button hover jadi uiverse
+- border radius masing masing card
+ *about-img-1 = 600 x 762 px
+ *about-img-2 = 700 x 662 px
+ *contact-img-1 = 700 x 620 px
+ *home-img-1 = 700 x 519 px
+ *home-img-2 = 700 x 371 px
+ *project-img-1 = 500 x 365 px
+ *project-img-2 = 500 x 365 px
+ *project-img-3 = 500 x 365 px
