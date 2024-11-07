@@ -12,3 +12,4 @@
  *project-img-1 = 500 x 365 px
  *project-img-2 = 500 x 365 px
  *project-img-3 = 500 x 365 px
+ *ubah ukuran atau png section about
